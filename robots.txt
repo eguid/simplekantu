@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eguid.github.io/simplekantu/sitemap.xml
+Sitemap: http://eguid.github.io/simplekantu/sitemap.xml
